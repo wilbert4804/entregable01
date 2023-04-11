@@ -1,0 +1,30 @@
+.button{
+    
+    border-radius: 5px;
+    color: var(--morado);
+    font-family: 'Fredoka';
+    text-transform: uppercase;
+    text-align: center;
+    padding: 10px 20px;
+    top: 10px;
+    margin: 0 auto;
+    position: absolute;
+    bottom: 10px;
+    left: 50%;
+    transform: translateX(-50%);
+    box-sizing: border-box;
+    width: 181px;
+    height: 44px;
+    top: 490px;
+
+    
+
+background: rgba(255, 255, 255, 0.4);
+border: 2px solid #FFFFFF;
+
+    
+}
+.button:hover{
+    background-color: rgba(236, 233, 235, 0.226);
+    cursor: pointer;
+}

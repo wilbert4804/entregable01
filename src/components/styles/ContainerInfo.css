@@ -1,0 +1,70 @@
+.containerInfo__title{
+    /*color: white;
+    text-align: center;
+    font-weight: bold;
+    font-size: 35px;
+    text-shadow: 5px 5px 1px var(--morado);
+    text-transform: uppercase;
+    position: absolute;
+    top: 10px;
+    left: 50%;
+    transform: translateX(-50%);
+    */
+    color: white;
+    text-align: center;
+    font-weight: bolder;
+    font-size: 37px;
+    text-shadow: 4px 4px 1px var(--morado);
+    text-transform: uppercase;
+    position: absolute;
+    top: 90px;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 443.26px;
+    height: 88px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 44px;
+    
+    
+}
+
+.containerInfo__phrase{
+    color: var(--morado);
+    background-image: url("/images/rectagle.png");
+    padding: 20px;
+    text-align: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+    aspect-ratio: 2;
+    background-position: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    max-width: 400px;
+    width: 435px;
+    height: 720px;
+    left: 422px;
+    top: 294.38px;
+    font-family: 'Fredoka';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 18px;
+
+}
+.containerInfo__author{
+    background-color: rgb(255, 255, 255, 0.618);
+    color: gray;
+    font-weight: lighter;
+    text-align: center;
+    padding: 10px 20px;
+    max-width: max-content;
+    margin: 0 auto;
+    position: absolute;
+    bottom: 10px;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+
